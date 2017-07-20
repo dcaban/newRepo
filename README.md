@@ -1,2 +1,2 @@
 # newRepo
-This is an example of repo
+This is an example of a repo
